@@ -1,7 +1,4 @@
----
-  tags: UICollectionView
-  languages: objc
----
+
 
 Muscle Collection
 =======
