@@ -35,3 +35,5 @@ Remember - your collection view should allow Multiple Selection. (Hmm...why did 
 
 
 
+
+<a href='https://learn.co/lessons/MuscleCollection' data-visibility='hidden'>View this lesson on Learn.co</a>
