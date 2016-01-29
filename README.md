@@ -36,4 +36,4 @@ Remember - your collection view should allow Multiple Selection. (Hmm...why did 
 
 
 
-<a href='https://learn.co/lessons/MuscleCollection' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/MuscleCollection' title='Muscle Collection'>Muscle Collection</a> on Learn.co and start learning to code for free.</p>
